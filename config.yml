@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -97,6 +97,8 @@ params:
       url: "https://www.last.fm/user/braydofficial"
     - name: goodreads
       url: "https://goodreads.com/brayd"
+
+  ShareButtons: ["telegram", "mastodon"]
 
   analytics:
     google:
