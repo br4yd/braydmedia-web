@@ -1,3 +1,4 @@
 baseURL = 'https://braydmedia.de/'
 languageCode = 'de-de'
 title = 'Braydmedia'
+theme = 'PaperMod'
